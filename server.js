@@ -1,4 +1,4 @@
-const mosca = require('mosca');
+var mosca = require('mosca');
 
 //MQTT
 var ascoltatore = {
