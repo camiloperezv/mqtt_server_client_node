@@ -1,7 +1,6 @@
 'use strict';
 var  mqtt = require('mqtt')
 var client = mqtt.connect({ port: 8443, host: 'localhost'});
-//const client = mqtt.connect({ port: 8443, host: 'obras.pruebas.insite.com.co'});
 
 
 
